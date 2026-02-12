@@ -9,12 +9,12 @@ Projeto criado para auxiliar nos estudos.
 | :rocket: Projeto         | https://github.com/brunoconrad/learning_with_python_notebooks
 
 
-## Criando o ambiente
+## Criar o ambiente
 ```
 python -m venv venv
 ```
 
-## Ativando o ambiente:
+## Ativar o ambiente:
 ```
 No Windows:
 venv\Scripts\activate
@@ -22,6 +22,11 @@ venv\Scripts\activate
 ```
 No Linux ou Mac:
 source venv/bin/activate
+```
+
+## Instalar os pacotes do requirements.txt:
+```
+pip install -r requirements.txt
 ```
 
 ## Rodar o projeto
