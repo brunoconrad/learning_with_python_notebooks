@@ -1,13 +1,9 @@
 # Imersão de Dados com Python II
 
-Projeto criado para auxiliar nos estudos.
-
 |  | INFORMAÇÕES DO PROJETO |
 | -------------  | --- |
 | :sparkles: Nome      | **Imersão de Dados com Python II**
 | :label: Tecnologias  | Python, Pandas, Streamlit, Plotly
-| :rocket: Projeto         | https://github.com/brunoconrad/learning_with_python_notebooks
-
 
 ## Criar o ambiente
 ```
