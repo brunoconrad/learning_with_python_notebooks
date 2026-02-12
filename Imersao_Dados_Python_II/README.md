@@ -16,9 +16,12 @@ python -m venv venv
 
 ## Ativando o ambiente:
 ```
-No Windows: venv\Scripts\activate
-
-No Linux ou Mac: source venv/bin/activate
+No Windows:
+venv\Scripts\activate
+```
+```
+No Linux ou Mac:
+source venv/bin/activate
 ```
 
 ## Rodar o projeto
